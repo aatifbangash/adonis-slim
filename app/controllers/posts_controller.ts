@@ -1,8 +1,8 @@
 // import type { HttpContext } from '@adonisjs/core/http'
 
-import { appKey, http } from "#config/app"
+// import { appKey, http } from "#config/app"
 import { HttpContext } from "@adonisjs/core/http"
-import config from "@adonisjs/core/services/config"
+// import config from "@adonisjs/core/services/config"
 
 export default class PostsController {
 
